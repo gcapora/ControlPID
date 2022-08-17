@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map for NewSoftSerial
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+controlPID	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+controlPID	KEYWORD2
+ConfigurarPID	KEYWORD2
+LimitarSalida	KEYWORD2
+LimitarIntegral	KEYWORD2
+CondicionarIntegral	KEYWORD2
+Controlar	KEYWORD2
+Apagar	KEYWORD2
+ObtenerIntegral	KEYWORD2
+ObtenerProporcional	KEYWORD2
+ObtenerDerivativo	KEYWORD2
+ObtenerSalida	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
